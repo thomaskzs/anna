@@ -1,9 +1,9 @@
 <?php
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
+if ($_SERVER["REQUEST_METHOD"] == "GET") {
     // Retrieve form data
-    $name = $_POST["name"];
-    $email = $_POST["email"];
-    $message = $_POST["message"];
+    $name = $_GET["name"];
+    $email = $_GET["email"];
+    $message = $_GET["message"];
 
     // Display the submitted data
     echo "Name: " . $name . "<br>";
