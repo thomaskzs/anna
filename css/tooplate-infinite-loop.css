@@ -31,6 +31,11 @@ a:focus {
   outline: none;
 }
 
+.fa-facebook {  
+  background: #3B5998;  
+  color: white;  
+}
+
 .btn {
   padding: 8px 32px;
 }
