@@ -531,7 +531,7 @@ figure.effect-honey:hover h2 i {
   background-position: center;
   background-repeat: no-repeat;
   /*min-height: 980px;  */
-  min-height: 400px;
+  min-height: 450px;
   position: relative;
   padding-bottom: 50px;
   padding-top: 100px;
@@ -604,7 +604,7 @@ figure.effect-honey:hover h2 i {
   bottom: 10px;
   left: 0;
   right: 0;
-  padding: 0 15px;
+  padding: 0 5px;
 }
 
 .tm-footer a {
