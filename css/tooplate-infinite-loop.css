@@ -40,9 +40,9 @@ a:focus {
 }  
 
 .fat {  
-  padding: 5px;  
+  padding: 20px;  
   text-align: center;  
-  margin: 5px 2px;  
+  margin: 15px 2px;  
   font-size: 30px;  
   width: 50px;  
 } 
