@@ -39,14 +39,6 @@ a:focus {
   width: 50px;  
 }  
 
-.fat {  
-  padding: 20px;  
-  text-align: center;  
-  margin: 5px 2px;  
-  font-size: 30px;  
-  width: 70px;  
-} 
-
 .fa-facebook {  
   background: #3B5998;  
   color: white;  
@@ -237,7 +229,7 @@ blockquote {
     margin-top: -40px;
   }
 
-  .tm-intro-next {
+.tm-intro-next {
     bottom: 20px;
   }
 }
